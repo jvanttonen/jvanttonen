@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Perilyod
-- 👀 I’m interested in GIS, satellite technologies, geospatial analytics.
+- 👀 I’m interested in GIS, geospatial analytics, fintech & blockchain.
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m loving it
 - 📫 How to reach me itcibuln@mtu.edu iuliia@mlabs.city
