@@ -1,4 +1,4 @@
- 📫 How to reach me itcibuln@mtu.edu iuliia@landano.io
+ 📫 How to reach me itcibuln@mtu.edu 
 
 <!---
 Perilyod/Perilyod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
