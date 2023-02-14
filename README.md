@@ -1,4 +1,4 @@
- 📫 How to reach me itcibuln@mtu.edu 
+ 📫 How to reach me juliavanttonen@gmail.com 
 
 <!---
 Perilyod/Perilyod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
